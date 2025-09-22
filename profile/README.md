@@ -2,7 +2,7 @@
   <h1>
     Saigon South Dragons
     <br/>
-    Team <code>10951</code>
+    FRC Team <code>10951</code>
   </h1>
 </div>
 
@@ -15,11 +15,7 @@ routines, and integrates with sensors and vision systems. They also manage
 software tools for programming simulation.
 
 > [!WARNING]
-> This is a student club organization run by students. The opinions and content
-> may not represent the official views of Saigon South International School.
+> This is a student-led organization. No content located herein represent the official views of Saigon South International School or it's partners.
 >
-> There is no malware in our repositories.
-
-## FIRST® AGE™
-
-soon:tm:
+---
+This repository contains code utilised by team 10951 in the 2025-2026 FRC season.

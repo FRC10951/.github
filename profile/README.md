@@ -15,5 +15,4 @@ routines, and integrates with sensors and vision systems. They also manage
 software tools for programming simulation.
 
 > [!WARNING]
-> This is a student-led organization. No content located herein represent the official views of Saigon South International School or it's partners.
->
+> This is a student-led organization. No content located herein represent the official views of Saigon South International School, FIRST® Robotics Competition, FIRST®, or it's partners.

@@ -17,5 +17,3 @@ software tools for programming simulation.
 > [!WARNING]
 > This is a student-led organization. No content located herein represent the official views of Saigon South International School or it's partners.
 >
----
-This repository contains code utilised by team 10951 in the 2025-2026 FRC season.
